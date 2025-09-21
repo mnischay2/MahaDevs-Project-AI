@@ -1,0 +1,15 @@
+setuptools 
+wheel 
+torch 
+torchvision 
+torchaudio
+pyaudio
+Cython
+numpy 
+soundfile 
+librosa
+pyttsx3
+openai-whisper
+requests
+gtts
+TTS

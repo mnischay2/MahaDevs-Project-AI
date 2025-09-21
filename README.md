@@ -1,1 +1,1 @@
-# MahaDevs-Project-AI
+base file with basic working model
